@@ -112,7 +112,7 @@ public class CelebrityGame {
 	 * @return The String clue from the current celebrity.
 	 */
 	public String sendClue() {
-		return false; // stub
+		return null;
 	}
 
 	/**
